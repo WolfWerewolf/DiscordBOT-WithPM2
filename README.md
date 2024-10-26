@@ -16,6 +16,9 @@
  
  -uptime
  ดูเวลา Bot ว่ารันมาแล้วเท่าไร
+
+ -reaction emoji
+ กด emoji ที่ข้อความที่กำหนดจะเพื่มยศที่กำหนด (ตั้งค่าใน settings/config.js)
  
 [Admin]
 
