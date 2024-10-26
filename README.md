@@ -4,6 +4,7 @@
  -[Feature]-
 
  [Basic]
+ 
  -Weather
  ดูสภาพอากาศ (!weather <ชื่อจังหวัดภาษาอังกฤษ>)
  
@@ -17,6 +18,7 @@
  ดูเวลา Bot ว่ารันมาแล้วเท่าไร
  
 [Admin]
+
 -Restart
 รีสตาร์ท Bot (!restart)
 
@@ -24,6 +26,7 @@
 หยุดการทำงาน Bot (!stop)
  
  [PM2]
+ 
  -pm start
  เปิดการทำงานของ PM2 ด้วยคำสั่ง pm2 start ... (!pm start <ID/ชื่อ>)
  
